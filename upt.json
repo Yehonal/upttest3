@@ -1,5 +1,6 @@
 {
   "name": "upt/test2",
   "dependencies": {
+    ":second" : "yehonal/upttest"
   }
 }
