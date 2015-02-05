@@ -1,5 +1,5 @@
 {
-  "name": "upt/test/test3",
+  "name": "upt/test/test3/test2",
   "dependencies": {
     ":second" : "yehonal/upttest"
   }
